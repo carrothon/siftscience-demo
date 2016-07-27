@@ -1,4 +1,5 @@
 <?php
+session_start();
 include 'shieldsquare/ss2.php';
 $shieldsquare_username = "fakeuser1"; // Enter the UserID of the user. This is optional.
 $shieldsquare_calltype = 1;
